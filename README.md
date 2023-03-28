@@ -1,16 +1,14 @@
 ### Hi there 👋
+---
 
-<!--
-**leo411/leo411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Léopoldine I'm a French software developer with 3 years of coding experience.:sunglasses:
 
-Here are some ideas to get you started:
+I'm currently looking for my next opportunity where my work hours can have an impact and purpose. 🌱:busts_in_silhouette:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 3 years of frontend development experience (React, Angular)
+
+I have 1 year of backend experience (Ruby on Rails)
+
+I'm super keen to learn new languages/frameworks such as Vue, Svelte, Python.:snake:
+
+Feel free to reach out on my [Linkedin](https://au.linkedin.com/in/léopoldine-hallynck-83684ba0)
