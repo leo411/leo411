@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-My name is Léopoldine I'm a French software developer with **5 years of coding experience**.:sunglasses:
+My name is Léopoldine I'm a French software developer with **5 years of coding experience**. 👩🏼‍💻
 
 What matters most to me is knowing my work hours have real impact and purpose. 🌱
 
