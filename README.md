@@ -3,7 +3,7 @@
 
 My name is Léopoldine I'm a French software developer with **5 years of coding experience**.:sunglasses:
 
-What matters most to me is knowing my work hours have real impact and purpose.. 🌱:busts_in_silhouette:
+What matters most to me is knowing my work hours have real impact and purpose. 🌱
 
 I have 5 years of **frontend** development experience (React, Vue, Angular).
 
